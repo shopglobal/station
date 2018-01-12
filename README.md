@@ -4,7 +4,7 @@ Businesses may join our platform and cost-effectively broadcast newsletters to t
 Some tools we will offer marketers are:
 ## Campaigns
 
-'''
+```
 	|_______Distribute Mass Email (Q1)	
 			|_______Upload your contacts list (free)
 			|_______Verify your contacts list for Bounces and or Non-existent addresses (Paid)
@@ -12,12 +12,12 @@ Some tools we will offer marketers are:
 			|_______Create Responsive Landing Page Templates (freemium)
 			|_______Send Mass Email on Schedule (freemium)
 			|_______Manage/Add contacts with API (Paid)
-'''
+```
 
 
 ## Integrations
 
-'''
+```
 	|_______Web (Q2)
 		|_______Zapier App
 				|_______Zapier integrates API to API automation with ease, using Zapier our platform will be nearly cross-compatible with all browsers, and most public web platforms and business applications such as Gmail, Hubspot, Google Sheets and much more.
@@ -48,30 +48,30 @@ Some tools we will offer marketers are:
 		|_______Manage, and Schedule Campaigns
 		|_______Manage Contacts
 		|_______Review Campaigns and Automations
-'''
+```
 
 ## Social Media
 
-'''
+```
  |_______Authenticate with Social Networks (Q2)
 				|_______Upload your Contacts List, compare to see who follows you on Facebook, Instagram, or Twitter
 				|_______Broadcast a link to a Campaign on your Social Channels as soon as it's published. 
 				|_______Message Users on your behalf 
 				|_______Message Group on your behalf
-'''
+```
 
 ## SMS
 
-'''
+```
  |_______Authenticate with Cell Phone (Q3)
  		 |_______Deliver Mass Text Messages 
  		 |_______Deliver Mass MMS Messages
  		 |_______Use Twilio (or competitive PAAS)
-'''
+```
 
 ## Automations
 
-'''
+```
 	|_______Configure Automated Marketing Campaigns (Q1)
 			|_______Schedule CRON for future campaign distributions 
 			|_______Mainly UI, as most of the functionality will be present
@@ -82,7 +82,7 @@ Some tools we will offer marketers are:
 					   Or Email is clicked.. Then wait 24 hours, and deliver next scheduled message.)
 						-Opened or Has Not Opened
 						-Clicked or Has Not Clicked
-'''
+```
 
 
 # Structure
@@ -94,7 +94,7 @@ View will be up for decision by 01-10-2018
 SAAS memberships offered to business owners and agencies who will create teams of users with different usage limitations.
 Core users will look like this:
 
-'''
+```
 Agency Manager
 or
 Team Manager ______
@@ -106,7 +106,7 @@ Team Manager ______
 			  		  		|___Per User Automations
 			  		  		|___Per User Templates
 			  		  		|___Per User Contacts
-'''
+```
 
 ## Research
 Statistics, extrapolations and counting by Radicati Group from February 2015 estimate the number of emails sent per day (in 2015) to be around 205 billion. 205 billion email messages per day means almost 2.4 million emails are sent every second and some 74 trillion emails are sent per year. 

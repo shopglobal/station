@@ -88,7 +88,8 @@ Some tools we will offer marketers are:
 # Structure
 Laravel 5.1 backend with Laravel Spark for SAAS
 Researching multiple views at the moment.
-View will be up for decision by 01-10-2018
+View will be encapsulated in Electron, with multiple frameworks carried in through Node integrations. 
+View is based in VueJS and Handlebars. With a flexible and reusable code-base of Laravel we may integrate nearly any view within our application.
 
 ## Design
 SAAS memberships offered to business owners and agencies who will create teams of users with different usage limitations.

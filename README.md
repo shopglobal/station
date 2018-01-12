@@ -113,17 +113,17 @@ Team Manager ______
 ## Research
 Statistics, extrapolations and counting by Radicati Group from February 2015 estimate the number of emails sent per day (in 2015) to be around 205 billion. 205 billion email messages per day means almost 2.4 million emails are sent every second and some 74 trillion emails are sent per year. 
 
-Revenue indicators : https://blog.mailchimp.com/going-freemium-one-year-later/
-Paying Customers in Sep 2010
-Sept 2009 - 85,000 customers
-Sept 2010 - 212,500 customer {stated in blog that 'the number of paying customers has increased over 150%'}
+## Revenue indicators : https://blog.mailchimp.com/going-freemium-one-year-later/
+### Paying Customers in Sep 2010
+ Sept 2009 - 85,000 customers
+ Sept 2010 - 212,500 customer {stated in blog that 'the number of paying customers has increased over 150%'}
 
-Ben Chestnut states that '20% of our users have lists greater than 10k subscribers'
-20% * 212,500 = 45,500 customers with >10K subscribers
-ARPU of those customers = $195 / month*
+### Ben Chestnut states that '20% of our users have lists greater than 10k subscribers'
+ 20% * 212,500 = 45,500 customers with >10K subscribers
+ ARPU of those customers = $195 / month*
 
-Cost analysis in the PAAS market proves multiple competing services are offered to SAAS providers. 
-Some of the most well known providers on the PAAS level are:
+### Cost analysis in the PAAS market proves multiple competing services are offered to SAAS providers. 
+### Some of the most well known providers on the PAAS level are:
 Amazon SES
 Sendgrid
 Elastic Email

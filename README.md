@@ -1,8 +1,9 @@
-Plan
+#Plan
 Email marketing is a useful way for businesses and individuals to keep in contact with one another. 
 Businesses may join our platform and cost-effectively broadcast newsletters to their network.
 Some tools we will offer marketers are:
-Campaigns
+##Campaigns
+[pre]
 	|_______Distribute Mass Email (Q1)	
 			|_______Upload your contacts list (free)
 			|_______Verify your contacts list for Bounces and or Non-existent addresses (Paid)
@@ -10,8 +11,11 @@ Campaigns
 			|_______Create Responsive Landing Page Templates (freemium)
 			|_______Send Mass Email on Schedule (freemium)
 			|_______Manage/Add contacts with API (Paid)
+[/pre]
 
-Integrations
+
+##Integrations
+[pre]
 	|_______Web (Q2)
 		|_______Zapier App
 				|_______Zapier integrates API to API automation with ease, using Zapier our platform will be nearly cross-compatible with all browsers, and most public web platforms and business applications such as Gmail, Hubspot, Google Sheets and much more.
@@ -42,22 +46,26 @@ Integrations
 		|_______Manage, and Schedule Campaigns
 		|_______Manage Contacts
 		|_______Review Campaigns and Automations
+[/pre]
 
-
-Social Media
+##Social Media
+[pre]
  |_______Authenticate with Social Networks (Q2)
 				|_______Upload your Contacts List, compare to see who follows you on Facebook, Instagram, or Twitter
 				|_______Broadcast a link to a Campaign on your Social Channels as soon as it's published. 
 				|_______Message Users on your behalf 
 				|_______Message Group on your behalf
+[/pre]
 
-SMS
+##SMS
+[pre]
  |_______Authenticate with Cell Phone (Q3)
  		 |_______Deliver Mass Text Messages 
  		 |_______Deliver Mass MMS Messages
  		 |_______Use Twilio (or competitive PAAS)
-
-Automations
+[/pre]
+##Automations
+[pre]
 	|_______Configure Automated Marketing Campaigns (Q1)
 			|_______Schedule CRON for future campaign distributions 
 			|_______Mainly UI, as most of the functionality will be present
@@ -68,17 +76,18 @@ Automations
 					   Or Email is clicked.. Then wait 24 hours, and deliver next scheduled message.)
 						-Opened or Has Not Opened
 						-Clicked or Has Not Clicked
+[/pre]
 
 
-
-Structure
+#Structure
 Laravel 5.1 backend with Laravel Spark for SAAS
 Researching multiple views at the moment.
 View will be up for decision by 01-10-2018
 
-Design
+##Design
 SAAS memberships offered to business owners and agencies who will create teams of users with different usage limitations.
 Core users will look like this:
+[pre]
 Agency Manager
 or
 Team Manager ______
@@ -90,8 +99,8 @@ Team Manager ______
 			  		  		|___Per User Automations
 			  		  		|___Per User Templates
 			  		  		|___Per User Contacts
-
-Research
+[/pre]
+##Research
 Statistics, extrapolations and counting by Radicati Group from February 2015 estimate the number of emails sent per day (in 2015) to be around 205 billion. 205 billion email messages per day means almost 2.4 million emails are sent every second and some 74 trillion emails are sent per year. 
 
 Revenue indicators : https://blog.mailchimp.com/going-freemium-one-year-later/
@@ -110,7 +119,7 @@ Sendgrid
 Elastic Email
 
 
-Legality: https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business
+###Legality: https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business
 The CAN-SPAM Act, a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have you stop emailing them, and spells out tough penalties for violations. ... The law makes no exception for business-to-business email. 
 
 Each separate email in violation of the CAN-SPAM Act is subject to penalties of up to $40,654, so non-compliance can be costly. But following the law isn’t complicated. Here’s a rundown of CAN-SPAM’s main requirements:
